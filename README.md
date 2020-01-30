@@ -2,7 +2,7 @@
 <img src="https://github.com/DaniSestan/Strides/raw/master/strides.png" alt="Strides" title="Strides" width="25%" height="25%" />
 
 ## Description
-This is project is currently in development. I'm currently enrolled in the graduate program for Computer Science at the University of Colorado, and would like to propose a Master's thesis that centers on sports analytics and big data. I've decided to develop this application in an attempt to analyze and research ideas related to this topic.
+This is project is currently in development. I'm enrolled in the graduate program for Computer Science at the University of Colorado, and would like to propose a Master's thesis that centers on sports analytics and big data. I've decided to develop this application in an attempt to analyze and research ideas related to this topic.
 
 I was inspired to develop a performance running app, in part, through my own experience with distance tracking applications that monitor my progress as a runner. Unlike these apps, the project I'm working goes beyond GPS tracking through a mobile device to record distance and speed. I would like to be able to track the user's pace throughout the run, analyze the data, and provide useful feedback on the user's performance. 
 
