@@ -1,5 +1,5 @@
 # Strides - Running Performance App
-<img src="https://github.com/DaniSestan/CheckMate-Web-App/raw/master/strides.png" alt="Strides" title="A cute kitten" width="25%" height="25%" />
+<img src="https://github.com/DaniSestan/Strides/raw/master/strides.png" alt="Strides" title="Strides" width="25%" height="25%" />
 
 ## Description
 
@@ -7,4 +7,4 @@
 
 The application will be deployed on an Ubuntu AWS EC2 instance.
 
-# Features
+## Features
